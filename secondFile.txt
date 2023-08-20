@@ -1,10 +1,10 @@
 This is the second file.
 This is the second file.
 This is the second file.
+This is the second file, changed.
 This is the second file.
 This is the second file.
-This is the second file.
-This is the second file.
+This is the second file, changed.
 This is the second file.
 This is the second file.
 This is the second file.
