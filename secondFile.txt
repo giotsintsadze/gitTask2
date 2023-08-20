@@ -3,8 +3,13 @@ This is the second file, changed in git_1.
 This is the second file.
 This is the second file.
 This is the second file.
+This is the second file, changed.
 This is the second file.
 This is the second file.
 This is the second file.
 This is the second file.
 This is the second file, changed in git_1.
+This is the second file, changed.
+This is the second file.
+This is the second file.
+This is the second file.
